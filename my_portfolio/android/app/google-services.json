@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "561899526108",
+    "firebase_url": "https://quizzo-firebase-store-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizzo-firebase-store",
+    "storage_bucket": "quizzo-firebase-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561899526108:android:6d6a41120df9e657b32119",
+        "android_client_info": {
+          "package_name": "com.codestrup.myportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkaP9w0xlTevSTtfCNNzJzVGIQllY7mjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
