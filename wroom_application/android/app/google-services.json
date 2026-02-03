@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334697905875",
+    "project_id": "add-cart-page",
+    "storage_bucket": "add-cart-page.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334697905875:android:ecac29388686318b4b1e26",
+        "android_client_info": {
+          "package_name": "com.codestrup.wroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGGBj6yfJP8BSGENeS2DhGb2r7u7ao0uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334697905875:android:31d4045fefe76b404b1e26",
+        "android_client_info": {
+          "package_name": "com.example.addcart_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGGBj6yfJP8BSGENeS2DhGb2r7u7ao0uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
